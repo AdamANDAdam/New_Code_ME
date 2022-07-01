@@ -1,0 +1,8 @@
+Warrior Name: Rufus 
+Warrior Age: 92 
+Warrior Gender: Male
+
+Your backpack contains:
+ [['Sacred Harpoon', 'Envenomed Buckler', 'Sacred Harpoon', 'Mace of Earth Hail']]
+ and your energy level is:
+ ['10%', '10%', '10%', '10%', '10%', '10%', '10%', '10%', '10%', '10%'].

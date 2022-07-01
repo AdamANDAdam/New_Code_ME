@@ -1,0 +1,11 @@
+Welcome [N1,S1],
+
+This is a kindly reminder that you have
+[MISSING] tasks left to submit
+before you can graduate.
+
+Your current grade is [CURRENT]
+and can increase by [FUTURE]
+if you submit all assignments before the due date
+[DEADLINE].
+
